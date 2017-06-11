@@ -2,8 +2,10 @@ html{
 
   background-color: black;
   color: white;
+  text-align: center;
+   
 }
 
 p{
-  color: blue;
+  color: orange;
 }
